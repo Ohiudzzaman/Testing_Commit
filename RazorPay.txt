@@ -24,5 +24,6 @@ On International / AMEX / EMI transactions, we levy a  3% Transaction charge + 0
 
 Please note GST OF 18% IS APPLICABLE ON THE TRANSACTION CHARGE and not on the entire payment amount.  For example, if a customer pays INR 100.00. The fees of INR 2.36 (2.36%) would be deducted and you would receive INR 97.64 as per your settlement cycle.
 
+ohidijaljdf
 
 
